@@ -1,0 +1,7 @@
+server:
+  port: 8082
+spring:
+  elasticsearch:
+    uris: http://10.245.142.245:9200
+    username: readonly
+    password: Read0nly
